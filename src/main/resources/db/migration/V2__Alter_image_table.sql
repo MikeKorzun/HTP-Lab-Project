@@ -1,0 +1,1 @@
+ALTER TABLE image ADD matlab_id BIGINT NOT NULL;
